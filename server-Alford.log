@@ -1,0 +1,14 @@
+INFO:root:Server Alford:12490 started
+INFO:root:Connection established.
+INFO:root:Alford server shutdown
+INFO:root:Server Alford:12490 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Alford +56522016.1754 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Alford +56522016.1754 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Alford to Parker
+INFO:root:Location update sent from Alford to Welsh
+INFO:root:Connection failed from client: Alford to server Parker.
+INFO:root:Connection failed from client: Alford to server Welsh.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Alford server shutdown

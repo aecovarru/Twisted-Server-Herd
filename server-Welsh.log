@@ -1,0 +1,128 @@
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Invalid Command: asdf response name invalid.
+INFO:root:Invalid Command: asdf response name invalid.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419379.3354 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419379.3354 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419438.1049 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Outdated position info IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419458.1174 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419458.1174 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419474.1789 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419474.1789 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419503.188 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419503.188 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419663.9539 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419663.9539 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419706.0592 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419706.0592 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419752.8119 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56419752.8119 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56419757.8375 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Outdated position info IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyBD5h7afp_aTP2WSJ3Q1sNdf0gw4CPXNGk sent
+ERROR:root:Google API error
+INFO:root:Invalid Command:  response missing values.
+INFO:root:Invalid Command:  response missing values.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyBD5h7afp_aTP2WSJ3Q1sNdf0gw4CPXNGk sent
+ERROR:root:Google API error
+INFO:root:Invalid Command:  response missing values.
+INFO:root:Invalid Command: dafs response name invalid.
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420047.7682 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420047.7682 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Invalid Command:  response missing values.
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Invalid Command:             print "GOT HERE" response name invalid.
+INFO:root:Invalid Command:             print "GOT HERE" response name invalid.
+INFO:root:Invalid Command: WHATSAT kiwi.cs.ucla.edu 10 5 
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420141.8516 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420141.8516 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Invalid Command:         print "HERE?" response name invalid.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420186.3975 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420186.3975 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Invalid Command: WHATSAT kiwi.cs.ucla.edu 10 5 
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420250.2242 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420250.2242 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420285.545 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420285.545 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Welsh server shutdown
+INFO:root:Server Welsh:12494 started
+INFO:root:Connection established.
+INFO:root:Successfully responded to IAMAT using AT Welsh +56420326.4188 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Updated kiwi.cs.ucla.edu : AT Welsh +56420326.4188 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+INFO:root:Location update sent from Welsh to Alford
+INFO:root:Location update sent from Welsh to Bolden
+INFO:root:Connection failed from client: Welsh to server Alford.
+INFO:root:Connection failed from client: Welsh to server Bolden.
+INFO:root:Google places query: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=+34.068930,-118.445127&radius=10&sensor=false&key=AIzaSyDDe3xXxav1GZEMJ4sl17l0zzqYqMxOP8Y sent
+ERROR:root:Google API error
+INFO:root:Welsh server shutdown
